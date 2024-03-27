@@ -15,4 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # shopping-app
-# shopping-app
+![alt text](screenshots/flutter_01.png)
+![alt text](screenshots/flutter_02.png)
+![alt text](screenshots/flutter_03.png)
+![alt text](screenshots/flutter_04.png)
